@@ -1,10 +1,10 @@
-### 👋 Olá rede! eu sou o isaque e estou estudando para ser um dev full stack
+### 👋 Hello network! I'm Isaque and I'm studying to be a full stack dev
 
  [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaquecod/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=izaq-code&show_icons=true&theme=tokyonight) 
 
-### 🖥️ Tecnologias que utilizo:
+### 🖥️ Technologies I use:
 
 <div style="display: incline_block"><br/>
     <img aling="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
