@@ -29,7 +29,7 @@
 ### Currently Studying:
 <div align="">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py" alt="Currently Studying" />
+    <img src="https://skillicons.dev/icons?i=py,java,linux" alt="Currently Studying" />
   </a>
 </div>
 
