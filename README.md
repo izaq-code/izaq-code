@@ -22,7 +22,6 @@
 
 <br>
 
-### 💻 Tech & Skill Tree
 
 <div align="center">
 
